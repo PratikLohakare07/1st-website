@@ -1,0 +1,44 @@
+body{
+  background-color: #F9E3F4;
+}
+h1
+{
+  color: #66bfbf;
+}
+h2
+{
+    color: #66bfbf;
+}
+h4
+{
+  color:violet;
+}
+hr{
+border-style: none;
+border-top: dotted;
+
+  border-width: 5px;
+border-color:grey;
+  width: 10%;
+}
+tbody{
+  text-align: center;
+}
+p
+{
+  align-self: right;
+  font-size: 19px;
+  color: brown;
+}
+.Table2{
+  text-align:justify;
+  align:center;
+}
+.font{
+  font-size: 12px;
+}
+.text
+{
+  text-align: justify;
+
+}

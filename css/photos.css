@@ -1,0 +1,26 @@
+body{
+  
+  background-color: #E3FBE6;
+}
+
+img{
+
+  object-position: center;
+
+
+  width: 100px;
+}
+
+hr{
+  border-style: none;
+  border-top: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+
+
+}
+a
+{
+  text-decoration: none;
+}
